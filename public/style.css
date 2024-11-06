@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(227, 199, 149);
+}
+ul, li{
+    color: gray;
+}
+li.h{
+    color: rgb(103, 103, 103);
+}
