@@ -1,9 +1,17 @@
 body{
     background-color: rgb(227, 199, 149);
 }
-ul, li{
+ul, li, h2 {
     color: gray;
 }
-li.h{
+li.h p, h1{
     color: rgb(103, 103, 103);
+}
+.center{
+    width: 50%;
+    margin-left: 25%;
+
+}
+.text-center{
+    text-align: center;
 }
